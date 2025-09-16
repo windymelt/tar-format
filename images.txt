@@ -1,0 +1,10 @@
+ubuntu
+debian
+alpine
+fedora
+rockylinux:9.3
+almalinux
+oraclelinux:10
+archlinux
+opensuse/leap:latest:zypper install -y tar
+amazonlinux:latest:yum install -y tar
